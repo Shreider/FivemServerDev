@@ -1,0 +1,34 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/24/2023, 2:53:22 PM
+================================================================
+
+================================================================
+======== Log Rotated - 11/24/2023, 2:53:22 PM                   
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/24/2023, 2:55:32 PM
+================================================================
+[14:58:15][KOK_Shreider_404] logged in via in-game ui
+[15:56:14][KOK_Shreider_404] logged in via in-game ui
+[15:57:09][KOK_Shreider_404] logged in via in-game ui
+[16:04:17][KOK_Shreider_404] logged in via in-game ui
+[17:00:42][KOK_Shreider_404] logged in via in-game ui
+[17:42:13][KOK_Shreider_404] logged in via in-game ui
+[17:55:45][KOK_Shreider_404] logged in via in-game ui
+[18:08:18][KOK_Shreider_404] logged in via in-game ui
+[18:14:41][KOK_Shreider_404] logged in via in-game ui
+[18:15:55][KOK_Shreider_404] logged in via in-game ui
+[18:39:04][KOK_Shreider_404] logged in via in-game ui
+[19:13:48][KOK_Shreider_404] logged in via in-game ui
+[19:13:55][KOK_Shreider_404] logged in via in-game ui
+[19:16:57][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[19:17:01][KOK_Shreider_404] executed "ensure "manageMap""
+[19:17:02][KOK_Shreider_404] executed "ensure "manageObjects""
+[19:17:02][KOK_Shreider_404] executed "ensure "manageVehicles""
+[19:17:02][KOK_Shreider_404] executed "ensure "manageWeapons""
+[19:17:03][KOK_Shreider_404] executed "ensure "playerManager""
+[19:17:11][KOK_Shreider_404] executed "ensure "GameMode""
+[19:17:51][KOK_Shreider_404] logged in via in-game ui
+[19:19:27][KOK_Shreider_404] logged in via in-game ui

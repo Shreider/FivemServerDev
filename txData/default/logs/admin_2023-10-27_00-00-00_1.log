@@ -1,0 +1,155 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/26/2023, 10:10:14 PM
+================================================================
+
+================================================================
+======== Log Rotated - 10/26/2023, 10:10:14 PM                  
+================================================================
+[22:10:59][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[22:11:03][KOK_Shreider_404] executed "RESTART SERVER"
+[22:12:25][KOK_Shreider_404] logged in via in-game ui
+[22:34:18][KOK_Shreider_404] executed "RESTART SERVER"
+[22:34:27][KOK_Shreider_404] executed "start [NiceKOK]"
+[22:35:02][KOK_Shreider_404] logged in via in-game ui
+[22:37:53][KOK_Shreider_404] executed "RESTART SERVER"
+[22:38:18][KOK_Shreider_404] executed "start [NiceKOK]"
+[22:38:37][KOK_Shreider_404] executed "refresh"
+[22:38:38][KOK_Shreider_404] logged in via in-game ui
+[22:38:39][KOK_Shreider_404] executed "start [NiceKOK]"
+[22:39:20][KOK_Shreider_404] executed "start [NiceKOK]"
+[22:39:26][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[22:39:29][KOK_Shreider_404] executed "ensure [NiceKOK]"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/26/2023, 10:40:29 PM
+================================================================
+[22:40:38][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[22:40:45][KOK_Shreider_404] executed "start [NiceKOK]"
+[22:41:12][KOK_Shreider_404] executed "start [NiceKOK]"
+[22:41:17][KOK_Shreider_404] executed "stop [NiceKOK]"
+[22:41:19][KOK_Shreider_404] executed "start [NiceKOK]"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/26/2023, 10:42:06 PM
+================================================================
+[22:42:10][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[22:42:17][KOK_Shreider_404] executed "start [NiceKOK]"
+[22:42:52][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/26/2023, 10:48:32 PM
+================================================================
+[22:48:48][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[22:48:59][KOK_Shreider_404] executed "refresh"
+[22:50:09][KOK_Shreider_404] logged in via in-game ui
+[22:55:42][KOK_Shreider_404] executed "RESTART SERVER"
+[22:56:50][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/26/2023, 10:58:44 PM
+================================================================
+[22:59:10][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[23:00:09][KOK_Shreider_404] logged in via in-game ui
+[23:02:45][KOK_Shreider_404] executed "refresh"
+[23:02:50][KOK_Shreider_404] executed "ensure "changeModel""
+[23:02:51][KOK_Shreider_404] executed "ensure "Peds""
+[23:02:51][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:03:19][KOK_Shreider_404] logged in via in-game ui
+[23:07:14][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:07:15][KOK_Shreider_404] executed "ensure "changeModel""
+[23:07:17][KOK_Shreider_404] executed "ensure "Peds""
+[23:07:45][KOK_Shreider_404] logged in via in-game ui
+[23:09:01][KOK_Shreider_404] executed "ensure "changeModel""
+[23:09:02][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:09:56][KOK_Shreider_404] executed "ensure "Peds""
+[23:09:58][KOK_Shreider_404] executed "refresh"
+[23:10:00][KOK_Shreider_404] executed "refresh"
+[23:10:14][KOK_Shreider_404] executed "stop "Peds""
+[23:10:14][KOK_Shreider_404] executed "ensure "CustomPeds""
+[23:10:19][KOK_Shreider_404] executed "ensure "changeModel""
+[23:10:19][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:10:40][KOK_Shreider_404] executed "ensure "changeModel""
+[23:11:03][KOK_Shreider_404] logged in via in-game ui
+[23:12:46][KOK_Shreider_404] executed "RESTART SERVER"
+[23:13:28][KOK_Shreider_404] logged in via in-game ui
+[23:15:37][KOK_Shreider_404] executed "ensure "changeModel""
+[23:15:37][KOK_Shreider_404] executed "ensure "CustomPeds""
+[23:15:38][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:17:05][KOK_Shreider_404] executed "ensure "changeModel""
+[23:17:05][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:17:06][KOK_Shreider_404] executed "ensure "CustomPeds""
+[23:17:30][KOK_Shreider_404] logged in via in-game ui
+[23:19:30][KOK_Shreider_404] executed "ensure "changeModel""
+[23:19:31][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:19:34][KOK_Shreider_404] executed "refresh"
+[23:19:37][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:19:37][KOK_Shreider_404] executed "ensure "changeModel""
+[23:19:44][KOK_Shreider_404] executed "ensure "AdminCommands""
+[23:20:04][KOK_Shreider_404] executed "ensure "AdminCommands""
+[00:06:33][KOK_Shreider_404] executed "refresh"
+[00:08:18][KOK_Shreider_404] executed "ensure "AdminCommands""
+[00:08:19][KOK_Shreider_404] executed "ensure "spawnWeapon""
+[00:36:56][KOK_Shreider_404] executed "refresh"
+[00:37:01][KOK_Shreider_404] executed "ensure "AdminCommands""
+[00:37:06][KOK_Shreider_404] executed "ensure "spawnObject""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/27/2023, 12:37:33 AM
+================================================================
+[00:37:57][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[00:38:16][KOK_Shreider_404] logged in via in-game ui
+[00:38:16][KOK_Shreider_404] logged in via in-game ui
+[00:54:53][KOK_Shreider_404] logged in via in-game ui
+[01:31:45][KOK_Shreider_404] executed "RESTART SERVER"
+[01:32:24][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/27/2023, 2:00:07 AM
+================================================================
+[02:01:14][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/27/2023, 1:49:27 PM
+================================================================
+[13:52:47][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[13:52:54][KOK_Shreider_404] executed "ensure "spawnObject""
+[13:53:35][KOK_Shreider_404] executed "ensure "spawnObject""
+[13:58:46][KOK_Shreider_404] executed "ensure "spawnObject""
+[13:59:31][KOK_Shreider_404] executed "ensure "spawnObject""
+[13:59:48][KOK_Shreider_404] executed "ensure "spawnObject""
+[14:00:27][KOK_Shreider_404] logged in via in-game ui
+[14:01:40][KOK_Shreider_404] executed "ensure "spawnObject""
+[14:03:29][KOK_Shreider_404] executed "ensure "spawnObject""
+[14:04:13][KOK_Shreider_404] executed "ensure "AdminCommands""
+[14:04:19][KOK_Shreider_404] executed "ensure "AdminCommands""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/27/2023, 2:51:51 PM
+================================================================
+[14:55:56][KOK_Shreider_404] logged in via in-game ui
+[15:08:56][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[15:08:56][KOK_Shreider_404] logged in via in-game ui
+[15:17:32][KOK_Shreider_404] executed "RESTART SERVER"
+[15:18:13][KOK_Shreider_404] logged in via in-game ui
+[15:22:11][KOK_Shreider_404] logged in via in-game ui
+[15:26:05][KOK_Shreider_404] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/27/2023, 3:28:11 PM
+================================================================
+[15:37:49][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[15:38:07][KOK_Shreider_404] logged in via in-game ui
+[15:38:07][KOK_Shreider_404] logged in via in-game ui
+[15:53:20][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/27/2023, 4:18:22 PM
+================================================================
+[16:18:33][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[16:19:15][KOK_Shreider_404] logged in via in-game ui
+[16:52:39][KOK_Shreider_404] logged in from via NUI iframe
+[16:52:40][KOK_Shreider_404] logged in from via NUI iframe
+[16:52:40][KOK_Shreider_404] logged in from via NUI iframe
+[16:52:40][KOK_Shreider_404] logged in from via NUI iframe
+[16:58:39][KOK_Shreider_404] logged in via in-game ui

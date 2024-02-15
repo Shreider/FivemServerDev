@@ -1,0 +1,46 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/14/2023, 3:37:40 PM
+================================================================
+
+================================================================
+======== Log Rotated - 10/14/2023, 3:37:41 PM                   
+================================================================
+[15:38:06][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[15:39:06][KOK_Shreider_404] logged in via in-game ui
+[15:45:56][KOK_Shreider_404] executed "refresh"
+[15:45:59][KOK_Shreider_404] executed "ensure "connectionManager""
+[15:47:40][KOK_Shreider_404] logged in via in-game ui
+[15:49:51][KOK_Shreider_404] executed "refresh"
+[15:50:40][KOK_Shreider_404] logged in via in-game ui
+[15:50:50][KOK_Shreider_404] executed "refresh"
+[15:54:16][KOK_Shreider_404] logged in via in-game ui
+[15:56:01][KOK_Shreider_404] logged in via in-game ui
+[15:56:29][KOK_Shreider_404] executed "ensure "connectionManager""
+[15:58:02][KOK_Shreider_404] executed "ensure "connectionManager""
+[15:58:09][KOK_Shreider_404] executed "ensure "connectionManager""
+[15:58:32][KOK_Shreider_404] executed "ensure "connectionManager""
+[15:59:06][KOK_Shreider_404] executed "RESTART SERVER"
+[15:59:19][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[16:01:02][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[16:01:04][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[16:01:36][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[16:01:38][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[16:01:40][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[16:02:12][KOK_Shreider_404] logged in via in-game ui
+[16:20:38][KOK_Shreider_404] executed "refresh"
+[16:20:45][KOK_Shreider_404] executed "RESTART SERVER"
+[16:21:05][KOK_Shreider_404] executed "ensure "HASOBars""
+[16:21:05][KOK_Shreider_404] executed "ensure "connectionManager""
+[16:21:06][KOK_Shreider_404] executed "ensure "landVehiclesDisableAirControll""
+[16:21:08][KOK_Shreider_404] executed "ensure "removeDefaultHudItems""
+[16:21:08][KOK_Shreider_404] executed "ensure "vehicleHUD""
+[16:22:07][KOK_Shreider_404] logged in via in-game ui
+[16:27:54][KOK_Shreider_404] executed "ensure "connectionManager""
+[16:28:44][KOK_Shreider_404] logged in via in-game ui
+[16:30:53][KOK_Shreider_404] executed "ensure "connectionManager""
+[16:35:28][KOK_Shreider_404] logged in from via NUI iframe
+[16:36:39][KOK_Shreider_404] logged in via in-game ui
+[17:00:53][KOK_Shreider_404] executed "RESTART SERVER"
+[17:01:06][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[17:01:51][KOK_Shreider_404] logged in via in-game ui

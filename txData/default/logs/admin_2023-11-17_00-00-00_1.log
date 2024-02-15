@@ -1,0 +1,60 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/17/2023, 3:10:17 PM
+================================================================
+
+================================================================
+======== Log Rotated - 11/17/2023, 3:10:18 PM                   
+================================================================
+[15:18:34][KOK_Shreider_404] logged in via in-game ui
+[15:18:58][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[15:18:58][KOK_Shreider_404] logged in via in-game ui
+[15:19:02][KOK_Shreider_404] executed "refresh"
+[15:19:06][KOK_Shreider_404] executed "ensure "gameArea""
+[15:19:12][KOK_Shreider_404] executed "ensure "basicHUD""
+[15:19:15][KOK_Shreider_404] executed "ensure "connectionManager""
+[15:19:39][KOK_Shreider_404] executed "ensure "playerManager""
+[15:20:15][KOK_Shreider_404] executed "ensure "playerManager""
+[15:20:36][KOK_Shreider_404] executed "ensure "playerManager""
+[16:10:53][KOK_Shreider_404] executed "refresh"
+[16:10:59][KOK_Shreider_404] executed "stop "gameArea""
+[16:11:12][KOK_Shreider_404] executed "ensure "AdminCommands""
+[16:11:13][KOK_Shreider_404] executed "ensure "Comamnds""
+[16:11:14][KOK_Shreider_404] executed "ensure "manageMap""
+[16:11:21][KOK_Shreider_404] executed "ensure "managePlayerModel""
+[16:11:21][KOK_Shreider_404] executed "ensure "playerManager""
+[16:11:24][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:20:44][KOK_Shreider_404] executed "refresh"
+[16:20:48][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:24:07][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:24:48][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:26:32][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:27:55][KOK_Shreider_404] executed "refresh"
+[16:27:58][KOK_Shreider_404] executed "ensure "GamePlay""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/17/2023, 4:29:15 PM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/17/2023, 4:29:59 PM
+================================================================
+[16:30:30][KOK_Shreider_404] logged in via in-game ui
+[16:30:46][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[16:30:47][KOK_Shreider_404] logged in via in-game ui
+[16:30:50][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:31:28][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:34:26][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:36:20][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:36:51][KOK_Shreider_404] executed "ensure "GamePlay""
+[16:52:24][KOK_Shreider_404] executed "ensure "GamePlay""
+[17:03:59][KOK_Shreider_404] logged in via in-game ui
+[17:37:05][KOK_Shreider_404] executed "ensure "GamePlay""
+[17:37:49][KOK_Shreider_404] logged in via in-game ui
+[18:49:33][KOK_Shreider_404] executed "ensure "GamePlay""
+[18:50:21][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/17/2023, 8:13:10 PM
+================================================================
+[20:14:20][KOK_Shreider_404] logged in via in-game ui

@@ -1,0 +1,118 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/1/2023, 11:08:16 PM
+================================================================
+[23:08:38][KOK_Shreider_404] created admins file
+[23:09:01][KOK_Shreider_404] Changing global settings via setup stepper and started Deployer.
+[23:09:07][KOK_Shreider_404] Setting recipe.
+[23:09:51][KOK_Shreider_404] Running recipe.
+[23:10:07][KOK_Shreider_404] Completed and committed server deploy.
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/1/2023, 11:13:42 PM
+================================================================
+[23:13:48][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[23:32:48][KOK_Shreider_404] executed "refresh"
+[23:32:49][KOK_Shreider_404] executed "ensure "loadingScreen""
+[23:33:54][KOK_Shreider_404] logged in via in-game ui
+[23:34:55][KOK_Shreider_404] logged in via in-game ui
+[23:35:58][KOK_Shreider_404] executed "ensure "loadingScreen""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/1/2023, 11:38:33 PM
+================================================================
+[23:39:34][KOK_Shreider_404] logged in via in-game ui
+[23:40:22][KOK_Shreider_404] logged in via in-game ui
+[23:40:43][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[23:40:43][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/1/2023, 11:42:59 PM
+================================================================
+[23:45:28][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[00:44:10][KOK_Shreider_404] executed "ensure "HAOBars""
+[00:44:40][KOK_Shreider_404] logged in via in-game ui
+[00:45:54][KOK_Shreider_404] executed "RESTART SERVER"
+[00:46:40][KOK_Shreider_404] logged in via in-game ui
+[01:54:17][KOK_Shreider_404] executed "RESTART SERVER"
+[01:55:05][KOK_Shreider_404] logged in via in-game ui
+[02:11:27][KOK_Shreider_404] executed "refresh"
+[02:11:30][KOK_Shreider_404] executed "ensure "vehicleHUD""
+[02:27:43][KOK_Shreider_404] executed "RESTART SERVER"
+[02:28:03][KOK_Shreider_404] executed "ensure "HAOBars""
+[02:28:04][KOK_Shreider_404] executed "ensure "vehicleHUD""
+[02:28:57][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/2/2023, 7:52:36 AM
+================================================================
+[07:53:19][KOK_Shreider_404] logged in via in-game ui
+[08:46:53][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[08:46:53][KOK_Shreider_404] logged in via in-game ui
+[08:46:56][KOK_Shreider_404] executed "refresh"
+[08:46:59][KOK_Shreider_404] executed "ensure "removeMinimap""
+[08:47:14][KOK_Shreider_404] executed "ensure "removeMinimap""
+[08:49:57][KOK_Shreider_404] executed "ensure "removeMinimap""
+[08:50:16][KOK_Shreider_404] executed "ensure "removeMinimap""
+[08:50:39][KOK_Shreider_404] executed "ensure "removeMinimap""
+[08:52:16][KOK_Shreider_404] executed "ensure "removeMinimap""
+[09:35:45][KOK_Shreider_404] logged in via in-game ui
+[09:37:28][KOK_Shreider_404] executed "ensure "vehicleHUD""
+[09:37:46][KOK_Shreider_404] logged in via in-game ui
+[09:45:34][KOK_Shreider_404] executed "ensure "removeMinimap""
+[09:45:56][KOK_Shreider_404] executed "ensure "HAOBars""
+[09:45:57][KOK_Shreider_404] executed "ensure "loadingScreen""
+[09:45:57][KOK_Shreider_404] executed "ensure "removeMinimap""
+[09:45:57][KOK_Shreider_404] executed "ensure "vehicleHUD""
+[09:48:00][KOK_Shreider_404] executed "ensure "removeMinimap""
+[09:48:25][KOK_Shreider_404] executed "ensure "removeMinimap""
+[09:49:36][KOK_Shreider_404] executed "ensure "removeMinimap""
+[09:51:18][KOK_Shreider_404] executed "ensure "removeMinimap""
+[09:52:25][KOK_Shreider_404] executed "ensure "removeMinimap""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/2/2023, 2:41:03 PM
+================================================================
+[14:42:32][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[14:43:13][KOK_Shreider_404] executed "ensure "HAOBars""
+[14:43:14][KOK_Shreider_404] executed "ensure "vehicleHUD""
+[14:44:13][KOK_Shreider_404] executed "ensure "removeMinimap""
+[14:45:30][KOK_Shreider_404] logged in via in-game ui
+[15:04:52][KOK_Shreider_404] executed "ensure "loadingScreen""
+[15:05:39][KOK_Shreider_404] logged in via in-game ui
+[18:19:29][KOK_Shreider_404] logged in via in-game ui
+[18:20:58][KOK_Shreider_404] executed "refresh"
+[18:21:02][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:21:49][KOK_Shreider_404] logged in via in-game ui
+[18:25:32][KOK_Shreider_404] executed "refresh"
+[18:25:35][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:26:21][KOK_Shreider_404] logged in via in-game ui
+[18:27:30][KOK_Shreider_404] executed "refresh"
+[18:27:34][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:28:23][KOK_Shreider_404] logged in via in-game ui
+[18:29:24][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:30:23][KOK_Shreider_404] logged in via in-game ui
+[18:31:07][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:31:59][KOK_Shreider_404] logged in via in-game ui
+[18:32:10][KOK_Shreider_404] executed "RESTART SERVER"
+[18:42:16][KOK_Shreider_404] executed "ensure "HAOBars""
+[18:42:17][KOK_Shreider_404] executed "ensure "removeMinimap""
+[18:42:17][KOK_Shreider_404] executed "ensure "vehicleHUD""
+[18:42:18][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:42:50][KOK_Shreider_404] logged in via in-game ui
+[18:44:39][KOK_Shreider_404] logged in via in-game ui
+[18:45:42][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:46:10][KOK_Shreider_404] logged in via in-game ui
+[18:50:46][KOK_Shreider_404] executed "ensure "loadingScreen""
+[18:51:38][KOK_Shreider_404] logged in via in-game ui
+[19:03:40][KOK_Shreider_404] logged in via in-game ui
+[19:11:30][KOK_Shreider_404] executed "refresh"
+[19:11:36][KOK_Shreider_404] executed "ensure "midAirVehiclePhysicSystem""
+[19:12:56][KOK_Shreider_404] executed "refresh"
+[19:13:00][KOK_Shreider_404] executed "stop "midAirVehiclePhysicSystem""
+[19:13:01][KOK_Shreider_404] executed "ensure "landVehicleDisableAirControll""
+[19:21:38][KOK_Shreider_404] executed "ensure "landVehicleDisableAirControll""
+[19:26:27][KOK_Shreider_404] executed "refresh"
+[19:26:36][KOK_Shreider_404] executed "stop "HAOBars""
+[19:26:36][KOK_Shreider_404] executed "ensure "HASOBars""
+[19:56:11][KOK_Shreider_404] logged in via in-game ui

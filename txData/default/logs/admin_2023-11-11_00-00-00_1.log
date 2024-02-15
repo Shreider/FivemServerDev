@@ -1,0 +1,25 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/11/2023, 3:18:19 AM
+================================================================
+
+================================================================
+======== Log Rotated - 11/11/2023, 3:18:20 AM                   
+================================================================
+[03:18:24][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[03:18:36][KOK_Shreider_404] executed "refresh"
+[03:19:36][KOK_Shreider_404] executed "ensure "testBlips""
+[03:20:11][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 11/11/2023, 11:31:26 AM
+================================================================
+[11:32:38][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[11:32:43][KOK_Shreider_404] executed "ensure "testBlips""
+[11:32:46][KOK_Shreider_404] logged in via in-game ui
+[11:32:46][KOK_Shreider_404] logged in via in-game ui
+[12:06:24][KOK_Shreider_404] executed "refresh"
+[12:06:32][KOK_Shreider_404] executed "RESTART SERVER"
+[12:06:59][KOK_Shreider_404] executed "RESTART SERVER"
+[12:07:03][KOK_Shreider_404] executed "ensure "testBlips""
+[12:07:38][KOK_Shreider_404] logged in via in-game ui

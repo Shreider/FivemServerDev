@@ -1,0 +1,62 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/17/2023, 12:41:11 PM
+================================================================
+
+================================================================
+======== Log Rotated - 10/17/2023, 12:41:11 PM                  
+================================================================
+[12:48:21][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[12:59:24][KOK_Shreider_404] logged in via in-game ui
+[13:05:25][KOK_Shreider_404] executed "refresh"
+[13:05:30][KOK_Shreider_404] executed "ensure "connectionManager""
+[13:05:55][KOK_Shreider_404] logged in via in-game ui
+[13:06:45][KOK_Shreider_404] executed "ensure "connectionManager""
+[13:07:26][KOK_Shreider_404] logged in via in-game ui
+[13:09:45][KOK_Shreider_404] executed "ensure "connectionManager""
+[13:10:31][KOK_Shreider_404] logged in via in-game ui
+[13:13:19][KOK_Shreider_404] executed "ensure "connectionManager""
+[13:14:01][KOK_Shreider_404] logged in via in-game ui
+[13:17:33][KOK_Shreider_404] executed "RESTART SERVER"
+[13:17:55][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[13:18:25][KOK_Shreider_404] logged in via in-game ui
+[13:19:16][KOK_Shreider_404] executed "RESTART SERVER"
+[13:19:27][KOK_Shreider_404] executed "restart connectionManager"
+[13:20:12][KOK_Shreider_404] logged in via in-game ui
+[13:21:21][KOK_Shreider_404] logged in via in-game ui
+[13:24:23][KOK_Shreider_404] executed "restart connectionManager"
+[13:25:08][KOK_Shreider_404] executed "restart connectionManager"
+[13:25:58][KOK_Shreider_404] logged in via in-game ui
+[13:27:06][KOK_Shreider_404] executed "restart connectionManager\"
+[13:27:08][KOK_Shreider_404] executed "restart connectionManager"
+[13:27:48][KOK_Shreider_404] logged in via in-game ui
+[13:28:19][KOK_Shreider_404] executed "restart connectionManager"
+[13:28:56][KOK_Shreider_404] logged in via in-game ui
+[13:29:29][KOK_Shreider_404] executed "restart connectionManager"
+[13:53:02][KOK_Shreider_404] executed "refresh"
+[13:53:06][KOK_Shreider_404] executed "ensure "TextOnGround""
+[13:53:31][KOK_Shreider_404] logged in via in-game ui
+[13:55:05][KOK_Shreider_404] executed "RESTART SERVER"
+[13:55:23][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[13:55:50][KOK_Shreider_404] logged in via in-game ui
+[13:58:00][KOK_Shreider_404] executed "RESTART SERVER"
+[13:58:50][KOK_Shreider_404] logged in via in-game ui
+[13:59:46][KOK_Shreider_404] executed "refresh"
+[13:59:49][KOK_Shreider_404] executed "ensure "TextOnGround""
+[14:02:24][KOK_Shreider_404] executed "ensure "TextOnGround""
+[14:12:12][KOK_Shreider_404] executed "RESTART SERVER"
+[14:12:21][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[14:12:31][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[14:13:01][KOK_Shreider_404] logged in via in-game ui
+[14:32:26][KOK_Shreider_404] executed "refresh"
+[14:32:29][KOK_Shreider_404] executed "stop "TextOnGround""
+[14:32:33][KOK_Shreider_404] executed "ensure "textOnGround""
+[14:49:46][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[14:50:19][KOK_Shreider_404] logged in via in-game ui
+[15:41:01][KOK_Shreider_404] executed "refresh"
+[15:41:10][KOK_Shreider_404] executed "stop "TextOnGround""
+[15:41:10][KOK_Shreider_404] executed "stop "textOnGround""
+[15:41:10][KOK_Shreider_404] executed "ensure "DrawText""
+[15:43:09][KOK_Shreider_404] executed "RESTART SERVER"
+[15:43:40][KOK_Shreider_404] logged in via in-game ui
+[15:45:34][KOK_Shreider_404] logged in via in-game ui

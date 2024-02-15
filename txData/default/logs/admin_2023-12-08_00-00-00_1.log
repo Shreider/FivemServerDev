@@ -1,0 +1,19 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/8/2023, 1:20:31 PM
+================================================================
+
+================================================================
+======== Log Rotated - 12/8/2023, 1:20:32 PM                    
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/8/2023, 1:21:36 PM
+================================================================
+[13:22:08][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[13:23:09][KOK_Shreider_404] executed "ensure "setNPCsMultiplayer""
+[13:23:18][KOK_Shreider_404] executed "ensure "playerManager""
+[13:23:27][KOK_Shreider_404] executed "ensure "GameMode""
+[13:23:50][KOK_Shreider_404] logged in via in-game ui
+[13:26:15][KOK_Shreider_404] executed "ensure "playerManager""
+[13:27:05][KOK_Shreider_404] logged in via in-game ui

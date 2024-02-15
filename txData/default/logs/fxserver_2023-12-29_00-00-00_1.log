@@ -1,0 +1,1033 @@
+
+================================================================
+======== Log Rotated - 12/29/2023, 2:47:53 PM                   
+================================================================
+
+================================================================
+======== FXServer Starting - 12/29/2023, 2:48:00 PM             
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 47 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] Started resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] [97mCreating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource dev_loadingScreen
+[    c-scripting-core] Creating script environments for dev_connectionManager
+[           resources] Started resource dev_connectionManager
+[  script:mysql-async] [32m[mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] [0mStarted map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+> txaEvent "adminsUpdated" "[]"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "skinManager"
+[    c-scripting-core] Creating script environments for skinManager
+[           resources] Started resource skinManager
+> txaReportResources
+[      script:monitor] [97m[txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+> ensure "skinManager"
+[           resources] Stopping resource skinManager
+[    c-scripting-core] Creating script environments for skinManager
+[           resources] Started resource skinManager
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[      script:hardcap] Connecting: Shreider_404
+[  script:skinManager] [1] Shreider_404 joined!
+[script:dev_connectio] [1] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:hardcap] Connecting: Shreider_404
+[  script:skinManager] [2] Shreider_404 joined!
+[script:dev_connectio] [2] Shreider_404 joined!
+[  script:mysql-async] [MariaDB:10.4.24-MariaDB] [WARNING] [dev_connectionManager] [152ms] INSERT INTO PlayersOnline (ip, steamid, NetId, PlayerName) VALUES (?, ?, ?, ?) : ["ip:172.19.224.1","steam:110000111a53809",2,"Shreider_404"]
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.[0m
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] [2] Shreider_404 left! (Exiting)
+[script:dev_connectio] [2] Shreider_404 left! (Exiting)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] [1] Shreider_404 left! (Exiting)
+[script:dev_connectio] [1] Shreider_404 left! (Exiting)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 12/29/2023, 6:45:35 PM             
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 47 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] [97mStarted resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] Started resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource dev_loadingScreen
+[    c-scripting-core] Creating script environments for dev_connectionManager
+[           resources] Started resource dev_connectionManager
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+[      script:hardcap] Connecting: Shreider
+[script:dev_connectio] Connecting failed for Shreider (You are not connected to Steam)
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[      script:hardcap] Connecting: Shreider
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[script:dev_connectio] Connecting failed for Shreider (You are not connected to Steam)
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[      script:hardcap] Connecting: Shreider_404
+[script:dev_connectio] [1] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+> txaEvent "adminsUpdated" "[1]"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "skinManager"
+[    c-scripting-core] Creating script environments for skinManager
+[           resources] Started resource skinManager
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] [1] Shreider_404 left! (Exiting)
+[script:dev_connectio] [1] Shreider_404 left! (Exiting)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 12/29/2023, 8:28:42 PM             
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 47 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] [0mStarted resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource dev_loadingScreen
+[    c-scripting-core] [0mCreating script environments for dev_connectionManager
+[           resources] Started resource dev_connectionManager
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl] [91m        fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] [0mcc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+[      script:hardcap] Connecting: Shreider_404
+[script:dev_connectio] [1] Shreider_404 joined!
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 219 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+> txaEvent "adminsUpdated" "[1]"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "skinManager"
+[    c-scripting-core] Creating script environments for skinManager
+[           resources] Started resource skinManager
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	table: 000001EC0C454DE0
+[  script:skinManager] true
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] 1
+[  script:skinManager] 2	table: 000001EC7E721400
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	nil
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	nil
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	[{"steamid":"steam:110000111a53809"}]
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	null
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}
+[  script:skinManager] true
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] 1
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}	hair
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}	hair
+[  script:skinManager] true
+[  script:skinManager] 1
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}	hair	11
+[  script:skinManager] true
+[  script:skinManager] 1	hair	11
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}	hair	11
+[  script:skinManager] true
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] 1	hair	11
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}	hair	11
+[  script:skinManager] true
+[  script:skinManager] 1	hair	11
+[  script:skinManager] 2	{"steamid":"steam:110000111a53809"}	nil	nil
+[  script:skinManager] true
+[  script:skinManager] true
+[  script:skinManager] table: 000001EC0C972860
+[  script:skinManager] true
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] true
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] true
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] true
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] true
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] true
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[  script:skinManager] steam:110000111a53809
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:5: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:5)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[38;5;74m[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:5: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:5)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] []
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[38;5;74m[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] nil
+[  script:skinManager] nil
+[script:dev_connectio] [1] Shreider_404 left! (Exiting)
+
+================================================================
+======== FXServer Starting - 12/29/2023, 9:13:19 PM             
+================================================================
+[           resources] Scanning resources.
+[38;5;83m[           resources] Found 47 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] [0mStarted resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] [0mStarted resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] [97mStarted gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource dev_loadingScreen
+[    c-scripting-core] Creating script environments for dev_connectionManager
+[           resources] Started resource dev_connectionManager
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[38;5;134m[      script:hardcap] Connecting: Shreider_404
+[script:dev_connectio] [1] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+> txaEvent "adminsUpdated" "[1]"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "skinManager"
+[    c-scripting-core] Creating script environments for skinManager
+[           resources] Started resource skinManager
+[  script:skinManager] nil
+> txaReportResources
+[      script:monitor] [txAdmin][97m Sending resources list to txAdmin.
+[  script:skinManager] [97mnil
+[  script:skinManager] nil
+[  script:skinManager] 1
+[  script:skinManager] 1
+[  script:skinManager] []
+[  script:skinManager] [{"steamid":"steam:110000111a53809"}]
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] [{"model_mask":21,"uid":1,"steamid":"steam:110000111a53809","model_hair_var":0,"model_hair":11,"model_mask_var":1}]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')[0m
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] [0mSCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js[0m:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:dev_connectio] [1] Shreider_404 left! (Exiting)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:hardcap] Connecting: Shreider_404
+[script:dev_connectio] [2] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[script:dev_connectio] [2] Shreider_404 left! (Exiting)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:hardcap] Connecting: Shreider_404
+[script:dev_connectio] [3] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[script:dev_connectio] [3] Shreider_404 left! (Exiting)
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂KOK_Shreider_404＂,＂message＂:＂Server restarting (requested by KOK_Shreider_404).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+
+================================================================
+======== FXServer Starting - 12/29/2023, 9:36:05 PM             
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 47 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] Started resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] [97mCreating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource dev_loadingScreen
+[    c-scripting-core] Creating script environments for dev_connectionManager
+[           resources] Started resource dev_connectionManager
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl] [97m        fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+> refresh
+[           resources] Scanning resources.
+[           resources] Found 0 new resources, and refreshed 0/47 resources.
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "skinManager"
+[    c-scripting-core] Creating script environments for skinManager
+[           resources] Started resource skinManager
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[      script:hardcap] Connecting: Shreider_404[0m
+[script:dev_connectio] [1] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] [93m> ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:6: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:6)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+
+================================================================
+======== FXServer Starting - 12/29/2023, 9:41:12 PM             
+================================================================
+[           resources] Scanning resources.
+[38;5;83m[           resources] Found 47 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] [97mCreating script environments for mysql-async
+[           resources] Started resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[38;5;83m[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource dev_loadingScreen
+[    c-scripting-core] [0mCreating script environments for dev_connectionManager
+[           resources] Started resource dev_connectionManager
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+> txaEvent "adminsUpdated" "[]"
+> txaReportResources
+[38;5;84m[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "skinManager"
+[    c-scripting-core] Creating script environments for skinManager
+[           resources] Started resource skinManager
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[      script:hardcap] Connecting: Shreider_404
+[script:dev_connectio] [1] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:7: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:7)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js[0m:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[38;5;74m[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] [0m[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] [0m> <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] []
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:9: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:9)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] server thread hitch warning: timer interval of 196 milliseconds
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] table: 0000024B4E630050	[1,2,3]
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] [0m> <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[38;5;159m[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] nil
+[  script:skinManager] DEV	[]
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:10: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:10)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] 1
+[  script:skinManager] 1
+[  script:skinManager] DEV	[{"PlayerName":"Shreider_404","NetId":1,"ip":"ip:172.19.224.1","steamid":"steam:110000111a53809"}]
+[  script:skinManager] 1
+[  script:skinManager] DEV	[{"steamid":"steam:110000111a53809","NetId":1,"PlayerName":"Shreider_404","ip":"ip:172.19.224.1"}]
+[  script:skinManager] 1
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] 1
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;134m[      script:hardcap] Connecting: Shreider_404
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:8: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:8)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:8: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:8)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:64: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:64)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] [91mSCRIPT ERROR: @skinManager/server.lua:8: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:8)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:67: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:67)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:52: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:52)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:skinManager] SCRIPT ERROR: @skinManager/server.lua:52: attempt to index a nil value (field '?')
+[  script:skinManager] > ref (@skinManager/server.lua:52)
+[  script:skinManager] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-main] -> Quitting: SIGINT received

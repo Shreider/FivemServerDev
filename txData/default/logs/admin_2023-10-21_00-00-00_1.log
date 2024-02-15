@@ -1,0 +1,67 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/21/2023, 12:55:55 PM
+================================================================
+
+================================================================
+======== Log Rotated - 10/21/2023, 12:55:55 PM                  
+================================================================
+[12:56:49][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[12:57:30][KOK_Shreider_404] executed "RESTART SERVER"
+[13:01:24][KOK_Shreider_404] Editing user 'KOK_Shreider_404'.
+[13:02:06][KOK_Shreider_404] Changing global settings.
+[13:02:17][KOK_Shreider_404] executed "RESTART SERVER"
+[13:02:24][KOK_Shreider_404] executed "ensure "devtest""
+[13:03:24][KOK_Shreider_404] logged in via in-game ui
+[13:07:39][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:07:43][KOK_Shreider_404] executed "ensure "devtest""
+[13:08:06][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:08:51][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:08:53][KOK_Shreider_404] executed "ensure "devtest""
+[13:09:47][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:10:12][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:10:31][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:10:54][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:19:57][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:22:07][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:22:12][KOK_Shreider_404] executed "ensure "devtest""
+[13:23:02][KOK_Shreider_404] logged in via in-game ui
+[13:35:23][KOK_Shreider_404] logged in via in-game ui
+[13:40:17][KOK_Shreider_404] executed "ensure "PlayersData""
+[13:40:19][KOK_Shreider_404] executed "ensure "devtest""
+[13:40:21][KOK_Shreider_404] executed "ensure "devtest""
+[13:40:33][KOK_Shreider_404] logged in via in-game ui
+[14:01:09][KOK_Shreider_404] executed "RESTART SERVER"
+[14:03:05][KOK_Shreider_404] logged in via in-game ui
+[14:16:19][KOK_Shreider_404] executed "refresh"
+[14:16:25][KOK_Shreider_404] executed "ensure "connectionManager""
+[14:17:15][KOK_Shreider_404] logged in via in-game ui
+[14:19:14][KOK_Shreider_404] executed "ensure "connectionManager""
+[14:19:40][KOK_Shreider_404] logged in via in-game ui
+[14:22:51][KOK_Shreider_404] logged in via in-game ui
+[14:23:56][KOK_Shreider_404] logged in via in-game ui
+[14:26:12][KOK_Shreider_404] executed "ensure "connectionManager""
+[14:26:38][KOK_Shreider_404] logged in via in-game ui
+[14:27:47][KOK_Shreider_404] logged in via in-game ui
+[14:28:35][KOK_Shreider_404] executed "RESTART SERVER"
+[14:29:34][KOK_Shreider_404] logged in via in-game ui
+[14:33:18][KOK_Shreider_404] logged in via in-game ui
+[14:36:01][KOK_Shreider_404] logged in via in-game ui
+[14:39:25][KOK_Shreider_404] logged in via in-game ui
+[14:53:24][KOK_Shreider_404] executed "RESTART SERVER"
+[14:55:07][KOK_Shreider_404] logged in via in-game ui
+[15:21:57][KOK_Shreider_404] executed "refresh"
+[15:22:01][KOK_Shreider_404] executed "stop "HASOBars""
+[15:22:05][KOK_Shreider_404] executed "ensure "basicHUD""
+[15:25:11][KOK_Shreider_404] executed "restart basicHUD"
+[15:25:23][KOK_Shreider_404] executed "restart basicHUD"
+[15:25:25][KOK_Shreider_404] executed "restart basicHUD"
+[15:26:41][KOK_Shreider_404] executed "restart basicHUD"
+[15:27:01][KOK_Shreider_404] executed "restart basicHUD"
+[15:28:02][KOK_Shreider_404] logged in via in-game ui
+[15:41:13][KOK_Shreider_404] executed "refresh"
+[15:41:16][KOK_Shreider_404] executed "ensure "FPCam""
+[16:00:08][KOK_Shreider_404] logged in via in-game ui
+[16:01:36][KOK_Shreider_404] logged in via in-game ui
+[16:04:14][KOK_Shreider_404] executed "refresh"
+[16:04:20][KOK_Shreider_404] executed "ensure "connectionManager""

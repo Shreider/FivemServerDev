@@ -1,0 +1,31 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/20/2023, 2:49:20 PM
+================================================================
+
+================================================================
+======== Log Rotated - 10/20/2023, 2:49:20 PM                   
+================================================================
+[14:50:13][KOK_Shreider_404] logged in via in-game ui
+[14:54:51][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[14:54:51][KOK_Shreider_404] logged in via in-game ui
+[14:54:53][KOK_Shreider_404] executed "refresh"
+[14:54:57][KOK_Shreider_404] executed "ensure "dev""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/20/2023, 3:20:12 PM
+================================================================
+[15:20:51][KOK_Shreider_404] logged in via in-game ui
+[15:21:17][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[15:21:17][KOK_Shreider_404] logged in via in-game ui
+[15:21:19][KOK_Shreider_404] executed "refresh"
+[15:21:22][KOK_Shreider_404] executed "ensure "DrawText""
+[15:21:22][KOK_Shreider_404] executed "ensure "devexe""
+[15:25:36][KOK_Shreider_404] executed "refresh"
+[15:25:39][KOK_Shreider_404] executed "ensure "devtest""
+[15:25:42][KOK_Shreider_404] executed "ensure "devexe""
+[15:28:43][KOK_Shreider_404] executed "RESTART SERVER"
+[15:29:24][KOK_Shreider_404] logged in via in-game ui
+[15:29:46][KOK_Shreider_404] executed "refresh"
+[15:37:57][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[15:38:35][KOK_Shreider_404] logged in via in-game ui

@@ -1,0 +1,49 @@
+
+================================================================
+======== Log Rotated - 12/23/2023, 11:20:49 AM                  
+================================================================
+
+================================================================
+======== FXServer Starting - 12/23/2023, 11:20:54 AM            
+================================================================
+[           resources] Scanning resources.
+[resources:connection] Warning: connectionManager exists in more than one place (H:\FiveM Server\txData\CFXDefaultFiveM_19DFE4.base\resources\[DEV]\connectionManager is used, the duplicate is H:\FiveM Server\txData\CFXDefaultFiveM_19DFE4.base\resources\[NiceKOK]\connectionManager)
+[           resources] Found 44 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] Started resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource loadingScreen
+[    c-scripting-core] Creating script environments for connectionManager
+[           resources] Started resource connectionManager
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl] [0m                                     
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/

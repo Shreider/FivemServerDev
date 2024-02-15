@@ -1,0 +1,22 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/5/2023, 11:20:57 AM
+================================================================
+
+================================================================
+======== Log Rotated - 12/5/2023, 11:20:57 AM                   
+================================================================
+[11:21:32][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[11:21:35][KOK_Shreider_404] executed "ensure "mysql-async""
+[11:21:39][KOK_Shreider_404] executed "ensure "connectionManager""
+[11:25:17][KOK_Shreider_404] logged in via in-game ui
+[11:54:01][KOK_Shreider_404] logged in from via NUI iframe
+[11:54:01][KOK_Shreider_404] logged in from via NUI iframe
+[12:13:36][KOK_Shreider_404] logged in from via NUI iframe
+[12:13:37][KOK_Shreider_404] logged in from via NUI iframe
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/5/2023, 5:58:53 PM
+================================================================
+[18:13:49][KOK_Shreider_404] logged in via in-game ui
+[19:18:21][KOK_Shreider_404] logged in from via NUI iframe

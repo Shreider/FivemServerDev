@@ -1,0 +1,40 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/30/2023, 4:32:20 AM
+================================================================
+
+================================================================
+======== Log Rotated - 12/30/2023, 4:32:20 AM                   
+================================================================
+[04:33:28][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[04:33:33][KOK_Shreider_404] executed "ensure "skinManager""
+[04:34:06][KOK_Shreider_404] logged in via in-game ui
+[04:48:39][KOK_Shreider_404] executed "ensure "skinManager""
+[04:48:52][KOK_Shreider_404] executed "ensure "skinManager""
+[04:49:19][KOK_Shreider_404] logged in via in-game ui
+[06:22:21][KOK_Shreider_404] logged in via in-game ui
+[06:34:08][KOK_Shreider_404] executed "ensure "dev_connectionManager""
+[06:35:41][KOK_Shreider_404] logged in via in-game ui
+[06:46:00][KOK_Shreider_404] executed "ensure "skinManager""
+[06:47:04][KOK_Shreider_404] logged in via in-game ui
+[06:48:17][KOK_Shreider_404] executed "refresh"
+[06:48:20][KOK_Shreider_404] executed "ensure "skinManager""
+[06:49:01][KOK_Shreider_404] logged in via in-game ui
+[06:51:22][KOK_Shreider_404] logged in via in-game ui
+[06:55:57][KOK_Shreider_404] logged in via in-game ui
+[06:57:01][KOK_Shreider_404] logged in via in-game ui
+[06:59:37][KOK_Shreider_404] logged in via in-game ui
+[07:02:09][KOK_Shreider_404] logged in via in-game ui
+[07:05:08][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/30/2023, 9:54:57 AM
+================================================================
+[09:55:19][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[09:55:23][KOK_Shreider_404] executed "ensure "PlayerManager""
+[09:56:13][KOK_Shreider_404] executed "RESTART SERVER"
+[09:56:24][KOK_Shreider_404] executed "refresh"
+[09:57:05][KOK_Shreider_404] logged in via in-game ui
+[10:13:32][KOK_Shreider_404] executed "RESTART SERVER"
+[10:14:11][KOK_Shreider_404] logged in via in-game ui
+[10:14:42][KOK_Shreider_404] executed "refresh"

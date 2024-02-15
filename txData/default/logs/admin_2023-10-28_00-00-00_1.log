@@ -1,0 +1,58 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/28/2023, 12:35:02 PM
+================================================================
+
+================================================================
+======== Log Rotated - 10/28/2023, 12:35:03 PM                  
+================================================================
+[12:41:00][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[12:41:13][KOK_Shreider_404] executed "start [NiceKOK]"
+[12:44:49][KOK_Shreider_404] executed "refresh"
+[12:44:53][KOK_Shreider_404] executed "stop outposts"
+[13:07:55][KOK_Shreider_404] executed "restart Spawns"
+[13:08:01][KOK_Shreider_404] executed "start Spawns"
+[13:08:13][KOK_Shreider_404] executed "restart mapBlips"
+[13:08:16][KOK_Shreider_404] executed "refresh"
+[13:08:20][KOK_Shreider_404] executed "start mapBlips"
+[13:08:27][KOK_Shreider_404] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/28/2023, 1:08:41 PM
+================================================================
+[13:09:12][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[13:09:20][KOK_Shreider_404] executed "start [NiceKOK]"
+[13:09:33][KOK_Shreider_404] logged in via in-game ui
+[13:09:34][KOK_Shreider_404] logged in via in-game ui
+[13:15:53][KOK_Shreider_404] executed "ensure [NiceKOK]"
+[13:16:27][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/28/2023, 1:25:37 PM
+================================================================
+[13:25:43][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[13:25:55][KOK_Shreider_404] executed "start [NiceKOK]"
+[13:26:45][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/28/2023, 1:41:57 PM
+================================================================
+[13:42:08][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[13:42:14][KOK_Shreider_404] executed "start [NiceKOK]"
+[13:43:06][KOK_Shreider_404] logged in via in-game ui
+[14:03:51][KOK_Shreider_404] executed "RESTART SERVER"
+[14:03:54][KOK_Shreider_404] executed "start Spawns"
+[14:03:57][KOK_Shreider_404] executed "start Spawns"
+[14:04:00][KOK_Shreider_404] executed "start Spawns"
+[14:04:26][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 10/28/2023, 2:20:19 PM
+================================================================
+[14:20:53][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[14:20:57][KOK_Shreider_404] executed "start [NiceKOK]"
+[14:21:01][KOK_Shreider_404] executed "start [NiceKOK]\"
+[14:21:03][KOK_Shreider_404] executed "start [NiceKOK]"
+[14:21:11][KOK_Shreider_404] executed "refresh"
+[14:21:12][KOK_Shreider_404] executed "start [NiceKOK]"
+[14:21:20][KOK_Shreider_404] logged in via in-game ui

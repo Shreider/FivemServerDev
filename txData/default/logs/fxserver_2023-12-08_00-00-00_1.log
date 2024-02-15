@@ -1,0 +1,256 @@
+
+================================================================
+======== Log Rotated - 12/8/2023, 1:20:32 PM                    
+================================================================
+
+================================================================
+======== FXServer Starting - 12/8/2023, 1:20:40 PM              
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 44 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] [97mStarted resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] Started resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for manageMap
+[           resources] Started resource manageMap
+[resources:manageVehi] Warning: could not find client_script `mods.lua` (defined in fxmanifest.lua:7)
+[resources:manageVehi] Warning: could not find client_script `config/*.lua` (defined in fxmanifest.lua:7)
+[           resources] Started resource manageVehicles (2 warnings)
+[           resources] Started resource manageWeapons
+[           resources] Started resource playerManager
+[           resources] Started resource AdminCommands
+[           resources] Started resource Comamnds
+[resources:CustomPeds] Asset CustomPeds/NATO_01.ytd uses 144.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource CustomPeds (1 warning)
+[      resources:r820] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[      resources:r820] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:r820:strea] Asset r820/r820.yft uses 18.9 MiB of virtual memory.
+[resources:r820:strea] Asset r820/r820.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:r820:strea] Asset r820/r820_hi.yft uses 18.9 MiB of virtual memory.
+[           resources] Started resource r820 (5 warnings)
+[ resources:rmodmi8lb] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:rmodmi8lb:] Asset rmodmi8lb/rmodmi8lb.yft uses 16.9 MiB of virtual memory.
+[resources:rmodmi8lb:] Asset rmodmi8lb/rmodmi8lb.ytd uses 22.0 MiB of physical memory.
+[           resources] Started resource rmodmi8lb (3 warnings)
+[           resources] Started resource ForestsOfSA_N
+[           resources] Started resource ForestsOfSA_S
+[           resources] Started resource GTAVRemastered
+[           resources] Started resource MapFix
+[    c-scripting-core] Creating script environments for GameMode
+[           resources] Started resource GameMode
+[           resources] Started resource loadingScreen
+[    c-scripting-core] Creating script environments for connectionManager
+[           resources] Started resource connectionManager
+[           resources] Started resource removeDefaultHudItems
+[           resources] Started resource basicHUD
+[  script:mysql-async] [mysql-async] [ERROR] connect ETIMEDOUT
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 12/8/2023, 1:21:36 PM              
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 44 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] [0mServer license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mysql-async
+[           resources] Started resource mysql-async
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] [97mCreating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] [97mStarted gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for manageMap
+[           resources] Started resource manageMap
+[resources:manageVehi] Warning: could not find client_script `mods.lua` (defined in fxmanifest.lua:7)
+[resources:manageVehi] Warning: could not find client_script `config/*.lua` (defined in fxmanifest.lua:7)
+[           resources] Started resource manageVehicles (2 warnings)
+[           resources] Started resource manageWeapons
+[           resources] Started resource playerManager
+[           resources] Started resource AdminCommands
+[           resources] Started resource Comamnds
+[resources:CustomPeds] Asset CustomPeds/NATO_01.ytd uses 144.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource CustomPeds (1 warning)
+[      resources:r820] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[      resources:r820] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:r820:strea] Asset r820/r820.yft uses 18.9 MiB of virtual memory.
+[resources:r820:strea] Asset r820/r820.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:r820:strea] Asset r820/r820_hi.yft uses 18.9 MiB of virtual memory.
+[           resources] Started resource r820 (5 warnings)
+[ resources:rmodmi8lb] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:rmodmi8lb:] Asset rmodmi8lb/rmodmi8lb.yft uses 16.9 MiB of virtual memory.
+[resources:rmodmi8lb:] Asset rmodmi8lb/rmodmi8lb.ytd uses 22.0 MiB of physical memory.
+[           resources] Started resource rmodmi8lb (3 warnings)
+[           resources] Started resource ForestsOfSA_N
+[           resources] Started resource ForestsOfSA_S
+[           resources] Started resource GTAVRemastered
+[           resources] Started resource MapFix
+[    c-scripting-core] Creating script environments for GameMode
+[           resources] Started resource GameMode
+[           resources] Started resource loadingScreen
+[    c-scripting-core] Creating script environments for connectionManager
+[           resources] Started resource connectionManager
+[           resources] Started resource removeDefaultHudItems
+[           resources] Started resource basicHUD
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kok-shreider-404-ozrxvr.users.cfx.re/
+> txaEvent "adminsUpdated" "[]"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "setNPCsMultiplayer"
+[           resources] Started resource setNPCsMultiplayer
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[      script:hardcap] Connecting: Shreider_404
+> ensure "playerManager"
+[           resources] Stopping resource playerManager
+[           resources] Started resource playerManager
+[script:connectionMan] [1] Shreider_404 joined!
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "GameMode"
+[           resources] Stopping resource GameMode
+[    c-scripting-core] Creating script environments for GameMode
+[           resources] Started resource GameMode
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+> ensure "playerManager"
+[           resources] Stopping resource playerManager
+[           resources] [0mStarted resource playerManager
+> txaReportResources
+[      script:monitor] [0m[txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:hardcap] Connecting: Shreider_404
+[script:connectionMan] [2] Shreider_404 joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:connectionMan] [1] Shreider_404 left! (Server->client connection timed out. Last seen 53480 msec ago.)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:hardcap] Connecting: Dragoon
+[38;5;116m[script:connectionMan] [3] Dragoon joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(Use `FXServer --trace-warnings ...` to show where the warning was created)
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+[      script:hardcap] Connecting: xKOKSUx
+[script:connectionMan] [4] xKOKSUx joined!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 7)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+(node:10916) UnhandledPromiseRejectionWarning: ^1SCRIPT ERROR: @GameMode/GameModeCore_server.lua:78: attempt to index a nil value (upvalue 'GameArea')^7
+^3> ref^7 (^5@GameMode/GameModeCore_server.lua^7:78)
+
+(node:10916) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:connectionMan] [3] Dragoon left! (Exiting)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:connectionMan] [2] Shreider_404 left! (Exiting)
+[script:connectionMan] [4] xKOKSUx left! (Exiting)
+[ citizen-server-main] -> Quitting: SIGHUP received

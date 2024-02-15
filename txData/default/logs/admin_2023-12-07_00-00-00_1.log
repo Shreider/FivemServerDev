@@ -1,0 +1,64 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/7/2023, 2:20:44 PM
+================================================================
+
+================================================================
+======== Log Rotated - 12/7/2023, 2:20:44 PM                    
+================================================================
+[14:24:15][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[14:24:18][KOK_Shreider_404] executed "ensure "mysql-async""
+[14:24:22][KOK_Shreider_404] executed "ensure "connectionManager""
+[14:24:26][KOK_Shreider_404] executed "ensure "RemoveCops-AI""
+[14:25:50][KOK_Shreider_404] logged in via in-game ui
+[14:27:05][KOK_Shreider_404] executed "ensure "mysql-async""
+[14:27:06][KOK_Shreider_404] executed "ensure "pma-voice""
+[14:27:06][KOK_Shreider_404] executed "ensure "Alert""
+[14:27:07][KOK_Shreider_404] executed "ensure "Utility""
+[14:27:07][KOK_Shreider_404] executed "ensure "manageMap""
+[14:27:08][KOK_Shreider_404] executed "ensure "Alert""
+[14:27:09][KOK_Shreider_404] executed "ensure "Utility""
+[14:27:09][KOK_Shreider_404] executed "ensure "manageMap""
+[14:27:09][KOK_Shreider_404] executed "ensure "manageVehicles""
+[14:27:11][KOK_Shreider_404] executed "ensure "manageVehicles""
+[14:27:11][KOK_Shreider_404] executed "ensure "manageWeapons""
+[14:27:11][KOK_Shreider_404] executed "ensure "playerManager""
+[14:27:15][KOK_Shreider_404] executed "ensure "GameMode""
+[14:27:16][KOK_Shreider_404] executed "ensure "RemoveCops-AI""
+[14:27:16][KOK_Shreider_404] executed "ensure "basicHUD""
+[14:27:19][KOK_Shreider_404] executed "ensure "connectionManager""
+[14:27:22][KOK_Shreider_404] executed "ensure "loadingScreen""
+[14:27:23][KOK_Shreider_404] executed "ensure "removeDefaultHudItems""
+[14:27:28][KOK_Shreider_404] executed "ensure "GameMode""
+[14:27:29][KOK_Shreider_404] executed "ensure "basicHUD""
+[14:27:29][KOK_Shreider_404] executed "ensure "loadingScreen""
+[14:27:29][KOK_Shreider_404] executed "ensure "removeDefaultHudItems""
+[14:27:33][KOK_Shreider_404] executed "ensure "CustomPeds""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/7/2023, 2:52:04 PM
+================================================================
+[14:53:17][KOK_Shreider_404] logged in via in-game ui
+[15:23:07][KOK_Shreider_404] logged in from via NUI iframe
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/7/2023, 3:25:26 PM
+================================================================
+[15:26:04][KOK_Shreider_404] logged in via in-game ui
+[15:45:03][KOK_Shreider_404] logged in from via NUI iframe
+[15:52:47][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[15:52:47][KOK_Shreider_404] logged in via in-game ui
+[15:52:50][KOK_Shreider_404] executed "ensure "RemoveCops-AI""
+[15:58:00][KOK_Shreider_404] logged in from via NUI iframe
+[15:58:00][KOK_Shreider_404] logged in from via NUI iframe
+[15:59:31][KOK_Shreider_404] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6947 Starting - 12/7/2023, 11:10:22 PM
+================================================================
+[23:10:53][KOK_Shreider_404] logged in from 127.0.0.1 via citizenfx
+[23:10:55][KOK_Shreider_404] executed "refresh"
+[23:11:00][KOK_Shreider_404] executed "ensure "setNPCsMultiplayer""
+[23:11:06][KOK_Shreider_404] executed "ensure "mysql-async""
+[23:11:09][KOK_Shreider_404] executed "ensure "connectionManager""
+[23:12:47][KOK_Shreider_404] logged in via in-game ui
